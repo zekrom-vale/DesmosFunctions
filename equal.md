@@ -6,5 +6,4 @@ e_{qual}\left(l_1,l_2\right)=\sum_{n=\left[1,...,\operatorname{length}\left(l_1\
 #### Returns an array of the first input and replaces all matching values(in same index) with 0/0 (und)
 n_{otEqual}\left(l_1,l_2\right)=\sum_{n=\left[1,...,\operatorname{length}\left(l_1\right)\right]}^{\left[1,...,\operatorname{length}\left(l_1\right)\right]}\left\{l_1\left[n\right]=l_2\left[n\right]:\frac{0}{0},l_1\left[n\right]\right\}
 
-* Just coppy and past the code into desmos as you would do with text.
 * Does not remove the element, just makes undefined and creates a new array.
